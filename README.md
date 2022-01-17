@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Dylan 👋 Backend developer
 
-<!--
-**dylanmartins/dylanmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🏢 SendCloud
+#### 📍 Eindhoven / Netherlands
 
-Here are some ideas to get you started:
+ <div>
+  <a href="https://github.com/dylanmartins">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanmartins&layout=compact&langs_count=7&theme=bear"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+  
+  <div>  	
+  <a href = "mailto:andrademdylan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/dylan-m-j-andrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
